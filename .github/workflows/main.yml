@@ -13,4 +13,4 @@ jobs:
     steps:
     - uses: actions/checkout@v3
     - run: chmod +x elite
-    - run: sudo ./elite 91.108.17.7 32000 50
+    - run: sudo ./elite 91.108.17.3 32001 80
